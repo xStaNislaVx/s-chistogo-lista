@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Butcherman&display=swap');
+@font-face {
+    font-family: 'ebgaramondmedium';
+    src:
+      url('ebgaramondmedium.ttf') format('truetype'),
+      url('ebgaramondmedium.woff') format('woff'),
+      url('ebgaramondmedium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'ebgaramondregular';
+    src:
+      url('ebgaramondregular.ttf') format('truetype');
+      url('ebgaramondregular.woff') format('woff');
+      url('ebgaramondregular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'interbold';
+    src:
+      url('interbold.ttf') format('truetype');
+      url('interbold.woff') format('woff');
+      url('interbold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'interregular';
+    src:
+      url('interregular.ttf') format('truetype');
+      url('interregular.woff') format('woff');
+      url('interregular.woff2') format('woff2');
+}
